@@ -99018,13 +99018,4 @@ zonewedgeshaft.com
 zpu.samsungelectronics.com
 zqtk.net
 
-# End yoyo.org
-
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-
 # example.com
